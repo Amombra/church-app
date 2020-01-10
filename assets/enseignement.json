@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "category":"La religion",
+        "cat_titre":"Ma religion à moi ",
+        "photo":"assets/a.jpg",
+        "contenu":[
+            {
+                "id":1,
+                "titre":"Connaitre Jésus",
+                "image_contenu":"assets/b.jpg",
+                "content":"Connaitre son identité,Connaitre son identité,Connaitre son identité, Connaitre son identité, Connaitre son identité,Connaitre son identité,Connaitre son identité, Connaitre son identité, Connaitre son identité,Connaitre son identité,Connaitre son identité, Connaitre son identité, Connaitre son identité,Connaitre son identité,Connaitre son identité, Connaitre son identité"
+            },
+            {
+                "id":2,
+                "titre":"La louange",
+                "image_contenu":"assets/c.jpg",
+                "content":"Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor"
+            },
+            {
+                "id":3,
+                "titre":"L'adoration",
+                "image_contenu":"assets/d.jpg",
+                "content":"Lorem ipsum dolor Lorem ipsum dolor jgjgfnnkgnbjgbjng jbgjbgkjg fkbkgnbn"
+            }
+        ]
+    },
+
+
+    {
+        "id":2,
+        "category":"Le Christianisme",
+        "cat_titre":" Le Christianisme ...",
+        "photo":"assets/g.jpg",
+        "contenu":[
+            {
+                "id":1,
+                "titre":"Connaitre Jésus",
+                "image_contenu":"assets/hot.png",
+                "content":"Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme"
+            },
+            {
+                "id":2,
+                "titre":"La louange",
+                "image_contenu":"assets/e.jpg",
+                "content":"Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme Christianisme"
+            },
+            {
+                "id":3,
+                "titre":"L'adoration",
+                "image_contenu":"assets/a.jpg",
+                "content":"Lorem ipsum dolor Lorem ipsum dolor jgjgfnnkgnbjgbjng jbgjbgkjg fkbkgnbn"
+            }
+        ]
+    }
+
+    
+]
